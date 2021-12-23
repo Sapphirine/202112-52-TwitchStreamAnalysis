@@ -46,7 +46,7 @@ To run our project, please
 1. Open every html file, and switch the domain variable to be local host.
 2. Fill in api tokens using you own ones.
 3. use pycharm to run flask framework, and then visit 127.0.0.1:5000 in chrome. 
-4. Alternatively, you can run our app online, please refer to the website stored in html files.
+4. Alternatively, you can visit our deployment https://proj6893.herokuapp.com. Please note that tokens somtimes expires. Please contact us if the web app fail to work. And we will provide updated versions of credentials for you.
 
 Note that Stream Integration is only available when we delpoy them on cloud platform(Due to browser domain policy). We have shown this part in our youtube link.
 
