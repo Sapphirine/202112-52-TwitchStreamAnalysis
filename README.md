@@ -44,10 +44,12 @@ those areas. However, we have deployed our project on the Heroku Platform.
 
 To run our project, please
 1. Open every html file, and switch the domain variable to be local host.
-2. use pycharm to run flask framework, and then visit 127.0.0.1:5000 in chrome. 
+2. Fill in api tokens using you own ones.
+3. use pycharm to run flask framework, and then visit 127.0.0.1:5000 in chrome. 
 
-Please use your own
-API and GCP credentials. Or please contact us. Note that key.json stores parts of the GCP service account credentials.
+Note that Stream Integration is only available when we delpoy them on cloud platform(Due to browser domain policy). We have shown this part in our youtube link.
+
+Please use your own API and GCP credentials. Or please contact us. Note that key.json stores parts of the GCP service account credentials.
 Same, for security reasons, we have commented all contents in those files.
 
 Please note that based on our experience of developing with Twitch API, Twitch has web bot focusing on detecting if 
