@@ -47,7 +47,7 @@ Same, for security reasons, we have commented all contents in those files.
 
 Please note that based on our experience of developing with Twitch API, Twitch has web bot focusing on detecting if 
 there are leaked tokens on Github. If it finds one, it deactivate it. We have met this several times. 
-Even if I removed my keys in the repo, however, credentials are still accessible through commit history.
+Even if I removed my keys in the repo, however, sometimes the keys still expire.
 So if you find out that our web app does not work, it is really possible to be this reason. Please contact us if you 
 have problem testing the web page. We will provide new credentials for your testing.
 
