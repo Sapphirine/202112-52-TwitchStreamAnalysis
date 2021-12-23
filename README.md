@@ -51,12 +51,6 @@ Even if I removed my keys in the repo, however, sometimes the keys still expire.
 So if you find out that our web app does not work, it is really possible to be this reason. Please contact us if you 
 have problem testing the web page. We will provide new credentials for your testing.
 
-# Deployment
-We deployed this project on 
-https://proj6893.herokuapp.com 
-
-Please see more details in our webpage.
-
 
 
 
